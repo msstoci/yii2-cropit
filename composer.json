@@ -1,0 +1,21 @@
+{
+    "name": "msstoci/yii2-cropit",
+    "description": "Crop Image",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","cropit"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "msstoci",
+            "email": "msstoci@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "msstoci\\cropit\\": ""
+        }
+    }
+}
